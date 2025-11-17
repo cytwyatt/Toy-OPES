@@ -1,4 +1,4 @@
-# Toy-OPES
+# (Toy-OPES)[https://github.com/cytwyatt/Toy-OPES]
 
 A toy implementation of OPES (On-the-fly Probability Enhanced Sampling) in a 1D potential.
 
